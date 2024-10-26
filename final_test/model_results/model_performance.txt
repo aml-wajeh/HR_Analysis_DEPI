@@ -1,0 +1,17 @@
+Model Performance Summary
+==================================================
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       False       1.00      1.00      1.00       928
+        True       0.99      1.00      1.00       452
+
+    accuracy                           1.00      1380
+   macro avg       1.00      1.00      1.00      1380
+weighted avg       1.00      1.00      1.00      1380
+
+ROC AUC Score: 1.0000
+
+Best Parameters:
+{'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}

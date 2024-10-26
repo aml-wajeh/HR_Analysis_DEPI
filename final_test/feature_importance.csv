@@ -1,0 +1,94 @@
+feature,importance
+TotalExperience,0.12520857033162622
+YearsAtCompany,0.08752635215919424
+YearsSinceLastPromotion,0.08331765714355999
+TenureYears,0.06552583789816778
+YearsInMostRecentRole,0.04937586184018081
+YearsWithCurrManager,0.04390100133752825
+ReviewYear,0.04325826800533985
+Age,0.03696772416729311
+Salary,0.0362298825492234
+JobLevel_Entry,0.03391155426804833
+JobLevel_Executive,0.030622627528377445
+DistanceFromHome_KM,0.023820384970479766
+OverTime_False,0.02183608645373672
+SatisfactionLevel_missing,0.021422528128771892
+OverTime_True,0.019572610633604243
+RatingLevel_missing,0.019329426460493137
+StockOptionLevel,0.01602874423474379
+AgeGroup_26-35,0.009963885556801347
+JobLevel_Senior,0.009837352343006563
+JobLevel_Mid,0.009176801822394314
+Education,0.008864411162420042
+AgeGroup_36-45,0.008594998217201473
+BusinessTravel_Frequent traveller,0.008046025393830626
+AgeGroup_18-25,0.0076165168113900995
+JobLevel_Junior,0.007162882274968954
+JobRole_Data scientist,0.006948579516452851
+MaritalStatus_Single,0.006842726981188427
+BusinessTravel_Some travel,0.005309323052408552
+MaritalStatus_Married,0.005017928841409065
+Ethnicity_White,0.004850931308617566
+Department_Technology,0.00477660458719768
+State_CA,0.004559241774424338
+EducationField_Information systems,0.004354321443998308
+Gender_F,0.00416024189237648
+CompositeSatisfactionScore,0.004150807548312697
+EducationLevel_High School ,0.003972076824782048
+EducationLevel_Bachelors ,0.003941375631674806
+MaritalStatus_Divorced,0.0038711850341451486
+Department_Sales,0.0038281530392872865
+State_NY,0.003816543715063831
+JobRole_Sales representative,0.003798498119911342
+Gender_M,0.003770349050233621
+State_IL,0.0036980301448804676
+JobRole_Sales executive,0.0036334794035077713
+EducationLevel_Masters ,0.0033977172391747496
+EducationField_Marketing ,0.0033553225576231716
+EducationField_Computer science,0.0033093245480892374
+TrainingParticipationRatio,0.0031411438702568244
+EducationField_Technical degree,0.0031081853635728323
+JobSatisfaction,0.0029327998399731165
+Ethnicity_American Indian or Alaska Native,0.002847132727288315
+WorkLifeBalance,0.0028181137586586473
+ManagerRating,0.0027433307109867616
+Ethnicity_Mixed or multiple ethnic groups,0.0027430742946453097
+RelationshipSatisfaction,0.002560745797993219
+EnvironmentSatisfaction,0.0025332521252070944
+JobRole_Machine learning engineer,0.0024990595378277273
+JobRole_Senior software engineer,0.0024871907032831373
+Gender_N,0.0024247478545741377
+Ethnicity_Black or African American,0.0023736691655423738
+JobRole_Software engineer,0.0023715004964546624
+EducationField_Marketing,0.002305668615406946
+AgeGroup_46-55,0.002283434767820765
+BusinessTravel_No travel ,0.0022494495416353843
+EducationLevel_No Formal Qualifications,0.0021675753792115534
+SelfRating,0.0021294338617346186
+JobRole_Engineering manager,0.0021141325404177105
+TrainingOpportunitiesTaken,0.002017242167185316
+TrainingOpportunitiesWithinYear,0.001838783690786468
+EducationField_Business studies,0.001773059213265073
+EducationField_Economics,0.0016485179935149341
+EducationField_Other,0.0016021583861506713
+RatingLevel_Meets Expectation,0.001490781969388186
+Ethnicity_Asian or Asian American,0.0014644643193973616
+Ethnicity_Native Hawaiian ,0.0014240828768455876
+EducationLevel_Doctorate,0.001417446056959784
+EducationField_Human resources,0.0012581712528228328
+SatisfactionLevel_Neutral,0.0011526559271922547
+RatingLevel_Above and Beyond,0.001125852372861712
+RatingLevel_Exceeds Expectation ,0.0010512707878554324
+JobRole_Analytics manager,0.0010465241947303263
+SatisfactionLevel_Satisfied ,0.0009564752105101051
+JobRole_Recruiter,0.0009387141766937986
+SatisfactionLevel_Very Satisfied,0.0008357599128383463
+Department_Human resources,0.0007498623474817706
+JobRole_Manager,0.0007324891899310989
+Gender_P,0.00067046741328476
+JobRole_Hr executive,0.0005508235053531435
+Ethnicity_Other ,0.00028967245692617267
+SatisfactionLevel_Very Dissatisfied,0.0002757726112181216
+SatisfactionLevel_Dissatisfied,0.00022635532749990894
+JobRole_Hr business partner,0.00012899936566982263
+JobRole_Hr manager,1.9202374004027808e-05
